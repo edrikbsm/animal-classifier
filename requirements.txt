@@ -1,0 +1,8 @@
+tensorflow-macos==2.16.2
+tensorflow-metal
+streamlit
+pillow
+numpy
+matplotlib
+scikit-learn
+seaborn
