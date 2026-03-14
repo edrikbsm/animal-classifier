@@ -1,6 +1,6 @@
 Classificateur d'animaux par intelligence artificielle, réalisé en Python avec TensorFlow.  
 Basé sur le transfer learning d'EfficientNetB0 pré-entraîné.  
-Précision de 97% sur les 5232 images (20% du dataset choisi sur kaggle pour l'entrainement du modele (répartition 80-20)
+Précision de 97% sur les 5232 images (20% du dataset choisi sur kaggle pour l'entrainement du modele; répartition 80-20)
 
 *** Lien Hugging Face : https://edrikbsm-animal-classifier.hf.space ***
 
