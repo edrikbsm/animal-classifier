@@ -22,7 +22,7 @@ matrice de confusion : ![Matrice de confusion](models/matrice_confusion.png)
 
 Courbes résultat de l'entrainement du modèle (entraîné sur 10 epochs) : ![Courbes](models/courbes_entrainement.png)
 
-Réalisation d'un Grad-CAM en 7x7 : ![GradCAM](models/gradcam_gradcam_Photo le 14-03-2026 à 14.png)
+Réalisation d'un Grad-CAM en 7x7 : ![GradCAM](models/gradcam-demo.png)
 
 Infos Techniques : Python 3.9.6, TensorFlow M2 2.16, Streamlit
 Pillow_NumPy_Matplotlib_Scikit-learn_Seaborn
